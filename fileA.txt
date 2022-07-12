@@ -1,3 +1,2 @@
-
-I have 2 cats and 1 dog. They are awesome.
+This is a content of file fileA.txt.
 
