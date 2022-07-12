@@ -1,1 +1,1 @@
-Adding fuctionality to C.
+This is content of a fileC.txt
